@@ -1,0 +1,13 @@
+{
+    "home": "Anasayfa",
+    "login": "Giriş",
+    "register": "Kayıt",
+    "dashboard": "Panel",
+    "language": "Dil",
+    "language_dir": "Dil Biçimi",
+    "theme_mode": "Tema Modu",
+    "dark": "Koyu",
+    "light": "Açık",
+
+    "send": "gönder"
+}

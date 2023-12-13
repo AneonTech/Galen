@@ -1,4 +1,10 @@
 {
+    "langName": "Türkçe",
+    "langCode": "tr",
+    "langFile": "tr.json",
+    "langDirection": "LTR",
+
+
     "home": "Anasayfa",
     "login": "Giriş",
     "register": "Kayıt",
@@ -8,6 +14,5 @@
     "theme_mode": "Tema Modu",
     "dark": "Koyu",
     "light": "Açık",
-
     "send": "gönder"
 }

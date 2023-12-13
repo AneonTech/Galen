@@ -1,4 +1,10 @@
 {
+    "langName": "English",
+    "langCode": "en",
+    "langFile": "en.json",
+    "langDirection": "LTR",
+
+
     "home": "Home",
     "login": "Sign In",
     "register": "Register",
@@ -8,6 +14,5 @@
     "theme_mode": "Theme Mode",
     "dark": "Dark",
     "light": "Light",
-
     "send": "send"
 }

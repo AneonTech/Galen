@@ -1,4 +1,10 @@
 {
+    "langName": "Arabic",
+    "langCode": "ar",
+    "langFile": "ar.json",
+    "langDirection": "RTL",
+
+
     "home": "الصفحة الرئيسية",
     "login": "تسجيل الدخول",
     "register": "يسجل",
@@ -8,6 +14,5 @@
     "theme_mode": "Tema Modu",
     "dark": "Koyu",
     "light": "Açık",
-
     "send": "يرسل"
 }

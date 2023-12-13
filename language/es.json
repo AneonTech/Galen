@@ -1,4 +1,10 @@
 {
+    "langName": "Espanol",
+    "langCode": "es",
+    "langFile": "es.json",
+    "langDirection": "LTR",
+
+
     "home": "Home",
     "login": "Entrar",
     "register": "Register",
@@ -8,6 +14,5 @@
     "theme_mode": "Theme Mode",
     "dark": "Dark",
     "light": "Light",
-
     "send": "send"
 }

@@ -1,0 +1,30 @@
+{
+    "languages": [
+        {
+            "langName": "English",
+            "langCode": "en",
+            "langFile": "en.json",
+            "langDirection": "LTR"
+        },{
+            "langName": "Deutsch",
+            "langCode": "de",
+            "langFile": "de.json",
+            "langDirection": "LTR"
+        },{
+            "langName": "Español",
+            "langCode": "es",
+            "langFile": "es.json",
+            "langDirection": "LTR"
+        },{
+            "langName": "العربية",
+            "langCode": "ar",
+            "langFile": "ar.json",
+            "langDirection": "RTL"
+        },{
+            "langName": "Türkçe",
+            "langCode": "tr",
+            "langFile": "tr.json",
+            "langDirection": "LTR"
+        }
+    ]
+}
